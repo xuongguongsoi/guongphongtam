@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://guongphongtam.pages.dev/sitemap.xml
+Sitemap: https://xuongguongsoi.github.io/guongphongtam/sitemap.xml
